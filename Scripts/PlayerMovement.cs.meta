@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 07e207be06a178147a39d94e5d90e506
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - manager: {instanceID: 0}
+  - deathParticles: {instanceID: 0}
+  - deathSound: {fileID: 8300000, guid: 085a1ceb259c28d43afc7bb4df61a338, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
